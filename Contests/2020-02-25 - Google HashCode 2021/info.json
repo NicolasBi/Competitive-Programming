@@ -1,0 +1,14 @@
+{
+    "nb_equipes_mondial": 9004,
+    "meilleur_score_mondial": 10586135,
+    "position_mondial": 2122,
+    "nb_equipes_france": 547,
+    "meilleur_score_france": 10474464,
+    "position_france": 203,
+    "score": 9093651,
+    "taille_equipe_min": 2,
+    "taille_equipe_max": 4,
+    "taille_mon_equipe": 2,
+    "nom_equipe": "Bureau 406",
+    "membres": ["SOURTY Raphaël", "BIZZOZZERO Nicolas"]
+}
